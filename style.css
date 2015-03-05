@@ -1,0 +1,66 @@
+body {
+	background-color: darkmagenta;
+}
+
+#header img {
+	max-height: 72px;
+	padding: 20px;
+}
+
+#header h1 {
+	color: palegreen;
+	display: inline-block;
+	font-size: 72pt;
+	margin: 0px;
+	vertical-align: top;
+}
+
+#nav {
+	background-color: palegreen;
+}
+
+#nav ul {
+	text-align: right;
+}
+
+#nav ul li {
+	display: inline-block;
+	padding-right: 10%
+}
+
+#nav a {
+	font-size: 24pt;
+	padding: 10px;
+	color: darkmagenta;
+}
+
+#content h1 {
+	color: darkmagenta;
+}
+
+#main {
+	background-color: white;
+	width: 70%;
+	padding: 20px;
+	display: inline-block;
+}
+
+#main p {
+	display: inline-block;
+}
+
+#main img {
+	float: left;
+	display: inline-block;
+	border-color: palegreen;
+	border-width: 20px;
+	max-width: 20%;
+	margin-right: 10px;
+}
+
+#side {
+	background-color: white;
+	width: 20%;
+	padding: 20px;
+	float: right;
+}
